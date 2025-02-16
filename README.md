@@ -17,4 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 
 
 ## Sobre o Projeto
-Este projeto foi feito pela piazada de Reserva-PR.
+projeto feito no curso Talento Tech na cidade de Reserva PR
